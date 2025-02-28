@@ -63,7 +63,7 @@ Credit card fraud detection is a crucial application of machine learning in fina
 📈 Model Performance
 
 Metric	Score
-Accuracy	94%
+Accuracy	92%
 
 🚀 Future Enhancements
 
